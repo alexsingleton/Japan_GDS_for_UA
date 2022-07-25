@@ -58,21 +58,21 @@ or
 
 
 
-Geographic Data Science, Geodemographics and Urban Analytics (L)
-Reproducible Research (L)
-Introduction to R and R Studio (P)
-Geographic Data and Visualization (L)
-Using R for Mapping (P)
-Understanding the Contexts of Cities (L) (History of Geodem) (L)
-Contemporary Geodemographics (L)
-Geodemographic Mapping (P)
-Geodemographic Methods and Approaches (L)
-Geodemographic Classification – Inputs and Preparation (L)
-Geodemographic Classification – Clustering and Visualization (P)
-Urban Analytics Prospects and Progress (Case Studies) (L)
-Urban Socio-Spatial Structure (1) >> Student Project
-Urban Socio-Spatial Structure (2)  >> Student Project
-Final group presentations >> Student Project
+* Geographic Data Science, Geodemographics and Urban Analytics (L)
+* Reproducible Research (L)
+* Introduction to R and R Studio (P)
+* Geographic Data and Visualization (L)
+* Using R for Mapping (P)
+* Understanding the Contexts of Cities (L) (History of Geodem) (L)
+* Contemporary Geodemographics (L)
+* Geodemographic Mapping (P)
+* Geodemographic Methods and Approaches (L)
+* Geodemographic Classification – Inputs and Preparation (L)
+* Geodemographic Classification – Clustering and Visualization (P)
+* Urban Analytics Prospects and Progress (Case Studies) (L)
+* Urban Socio-Spatial Structure (1) >> Student Project
+* Urban Socio-Spatial Structure (2)  >> Student Project
+* Final group presentations >> Student Project
 
 
 
