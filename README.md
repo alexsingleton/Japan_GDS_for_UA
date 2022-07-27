@@ -50,7 +50,7 @@ This course provides an introduction to the study of cities through new forms of
 
 # Group Project Assignment
 
-The group project will be introduced at 09.20 on Day 3. The projects is designed so that you can implement those skills developed during the practical sessions within an applied context. The projects are to be conducted in groups, and the assessment will be a 10-12 minute presentation in the final session on Thursday 26th January. 
+The group project will be introduced at 14:40 on Day 4. The projects is designed so that you can implement those skills developed during the practical sessions within an applied context. The projects are to be conducted in groups, and the assessment will be a 10-12 minute presentation in the final session on Friday 9th September. 
 
 ## Assignment 
 
