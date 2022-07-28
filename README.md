@@ -64,7 +64,7 @@ The project will run in two stages:
 
 * _Stage 1_ - You will work individually or within your groups to identify a city and associated data necessary to create a series of outputs that meet the three criteria above. You will then outline the type of outputs that you will create for your project - e.g. maps or graphs and the attributes used to create them. For each output you will need to create a flow chart of how you will implement this analysis.
 
-* _Stage 2_ - A session has been allocated where you can discuss your proposed analysis with Dani Arribas-Bel and Alex Singleton who will give you feedback / suggestions.
+* _Stage 2_ - A session has been allocated where you can discuss your proposed analysis with Alex Singleton and Patrick Ballantyne who will give you feedback / suggestions.
 
 * _Stage 3_ - Three sessions have been allocated that will enable you to complete your independent analysis and create a presentation.
 
