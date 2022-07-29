@@ -35,19 +35,19 @@ This course provides an introduction to the study of cities through new forms of
 -   10 Mins Break
 -   14:40-16:10 - [Practical 2 - Data Manipulation in R](/Practical%202%20-%20Data%20Manipulation_in_R/)
 -   10 Mins Break
--   16:20-17:50 - [Practical 3 - Descriptive Statistics](/Descriptive_statistics/)
+-   16:20-17:50 - [Practical 3 - Descriptive Statistics](/Practical%203%20-%20Descriptive_statistics/)
 
 ## Wednesday 7th September (Day 3)
 
--   13.00-14:30 - [Practical 4 - Data Viz 1 - Charts and Graphs](/Charts_and_Graphs/)
+-   13.00-14:30 - [Practical 4 - Data Viz 1 - Charts and Graphs](/Practical%204%20-%20Charts_and_Graphs/)
 -   10 Mins Break
--   14:40-16:10 - [Practical 5 - Data Viz 2 - Mapping Areas and Context](/Mapping_Areas_and_Context/)
+-   14:40-16:10 - [Practical 5 - Data Viz 2 - Mapping Areas and Context](/Practical%205%20-%20Mapping_Areas_and_Context/)
 -   10 Mins Break
 -   16:20-17:50 - [Lecture - Geodemographic Analysis of Cities - Alex Singleton]()
 
 ## Thursday 8th September (Day 4)
 
--   13.00-14:30 - [Practical 6 - Data Viz 3 - Visualizing Point Patterns](/Visualizing_Point_Patterns/)
+-   13.00-14:30 - [Practical 6 - Data Viz 3 - Visualizing Point Patterns](/Practical%206%20-%20Visualizing_Point_Patterns/)
 -   10 Mins Break
 -   14:40-16:10 - [Lecture / Independent - Introduction to the Group Project]() ; Student Project Planning - Stage 1
 -   10 Mins Break
