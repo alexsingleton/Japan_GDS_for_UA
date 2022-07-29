@@ -26,8 +26,9 @@ To log status of practicals:
 | 2.        | Data Manipulation in R | *Operational*  |
 | 3.        | Descriptive statistics | *Operational* |
 | 4.        | Data Viz 1) Charts and graphs | *Operational*  |
-| 5.        | Data viz 2) Mapping areas and context | tbc  |
+| 5.        | Data viz 2) Mapping areas and context | *Operational* |
 | 6.        | Data viz 3) Visualizing point patterns | tbc  |
+| 7.        | Data viz 4) Mapping flows | tbc  |
 
 # Instructors:
 
