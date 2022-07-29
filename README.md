@@ -4,10 +4,24 @@
 
 This course provides an introduction to the study of cities through new forms of data; additionally giving participants a grounding in basic geographic data science that will be employed to create a profile exploring the structure and function of a selected city or urban region.
 
-# Status
+# Lecture Status
+
+To log status of lectures. I've created a [folder](/Lectures/) in the repository for us to dump slides:
+
+| Lecture | Topic  | Status | Delivery |
+| :-  | :-   | :-   | :-   |
+| 1.        | Urban Analytics: City Structure and Function | tbc | Alex |
+| 2.        | Introduction to GDS for UA | tbc | Alex | 
+| 3.        | New Forms of Data and the Analysis of Cities | tbc| Patrick |
+| 4.        | Geodemographic Analysis of Cities | tbc  | Alex |
+
+
+# Practical Status
+
+To log status of practicals:
 
 | Practical | Topic  | Status | 
-| :-----   | :-   | :-   | 
+| :-  | :-   | :-   | 
 | 1.        | Introduction to R | *Operational*  |
 | 2.        | Data Manipulation in R | *Operational*  |
 | 3.        | Descriptive statistics | *Operational* |
