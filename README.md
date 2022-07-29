@@ -31,9 +31,9 @@ This course provides an introduction to the study of cities through new forms of
 ## Tuesday 6th September (Day 2)
 
 -   13.00-13:45 - [Lecture - New Forms of Data and the Analysis of Cities - Patrick Ballantyne]()
--   13:45-14:30 - [Practical 1 - Introduction to R](/Introduction_to_R/)
+-   13:45-14:30 - [Practical 1 - Introduction to R](/Practical%201%20-%20Introduction_to_R/)
 -   10 Mins Break
--   14:40-16:10 - [Practical 2 - Data Manipulation in R](/Data%20Manipulation_in_R/)
+-   14:40-16:10 - [Practical 2 - Data Manipulation in R](/Practical%202%20-%20Data%20Manipulation_in_R/)
 -   10 Mins Break
 -   16:20-17:50 - [Practical 3 - Descriptive Statistics](/Descriptive_statistics/)
 
