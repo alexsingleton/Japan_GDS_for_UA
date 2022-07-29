@@ -4,12 +4,23 @@
 
 This course provides an introduction to the study of cities through new forms of data; additionally giving participants a grounding in basic geographic data science that will be employed to create a profile exploring the structure and function of a selected city or urban region.
 
+# Status
+
+| Practical | Topic  | Status | 
+| :-----   | :-   | :-   | 
+| 1.        | Introduction to R | *Operational*  |
+| 2.        | Data Manipulation in R | *Operational*  |
+| 3.        | Descriptive statistics | *Operational* |
+| 4.        | Data Viz 1) Charts and graphs | tbc  |
+| 5.        | Data viz 2) Mapping areas and context | tbc  |
+| 6.        | Data viz 3) Visualizing point patterns | tbc  |
+
 # Instructors:
 
 -   Professor Alex Singleton, University of Liverpool
 -   Mr Patrick Ballantyne, University of Liverpool
 
-# Download
+# Schedule
 
 ## Monday 5th September (Day 1)
 
@@ -22,21 +33,21 @@ This course provides an introduction to the study of cities through new forms of
 -   13.00-13:45 - [Lecture - New Forms of Data and the Analysis of Cities - Patrick Ballantyne]()
 -   13:45-14:30 - [Practical 1 - Introduction to R](/Introduction_to_R/)
 -   10 Mins Break
--   14:40-16:10 - [Practical 2 - Data Manipulation in R](/GDS_UA_2017/Data%20Manipulation_in_R/)
+-   14:40-16:10 - [Practical 2 - Data Manipulation in R](/Data%20Manipulation_in_R/)
 -   10 Mins Break
--   16:20-17:50 - [Practical 3 - Descriptive Statistics](/GDS_UA_2017/Descriptive_statistics/)
+-   16:20-17:50 - [Practical 3 - Descriptive Statistics](/Descriptive_statistics/)
 
 ## Wednesday 7th September (Day 3)
 
--   13.00-14:30 - [Practical 4 - Data Viz 1 - Charts and Graphs](/GDS_UA_2017/Charts_and_Graphs/)
+-   13.00-14:30 - [Practical 4 - Data Viz 1 - Charts and Graphs](/Charts_and_Graphs/)
 -   10 Mins Break
--   14:40-16:10 - [Practical 5 - Data Viz 2 - Mapping Areas and Context](/GDS_UA_2017/Mapping_Areas_and_Context/)
+-   14:40-16:10 - [Practical 5 - Data Viz 2 - Mapping Areas and Context](/Mapping_Areas_and_Context/)
 -   10 Mins Break
 -   16:20-17:50 - [Lecture - Geodemographic Analysis of Cities - Alex Singleton]()
 
 ## Thursday 8th September (Day 4)
 
--   13.00-14:30 - [Practical 6 - Data Viz 3 - Visualizing Point Patterns](/GDS_UA_2017/Visualizing_Point_Patterns/)
+-   13.00-14:30 - [Practical 6 - Data Viz 3 - Visualizing Point Patterns](/Visualizing_Point_Patterns/)
 -   10 Mins Break
 -   14:40-16:10 - [Lecture / Independent - Introduction to the Group Project]() ; Student Project Planning - Stage 1
 -   10 Mins Break
