@@ -27,7 +27,7 @@ To log status of practicals:
 | 3.        | Descriptive statistics | *Operational* |
 | 4.        | Data Viz 1) Charts and graphs | *Operational*  |
 | 5.        | Data viz 2) Mapping areas and context | *Operational* |
-| 6.        | Data viz 3) Visualizing point patterns | tbc  |
+| 6.        | Data viz 3) Visualizing point patterns | *IN PROGRESS - ISSUES WITH GGMAP AND API*  |
 | 7.        | Data viz 4) Mapping flows | tbc  |
 
 # Instructors:
