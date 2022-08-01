@@ -99,9 +99,7 @@ If you would like to create a document of your code, then we would suggest using
 
 ## Looking for inspiration....
 
-<iframe src="https://opendatainception.io/" height="800" width="100%" allowfullscreen="" frameborder="0">
-
-</iframe>
+[Open Data Inception](https://opendatainception.io/) - 2000+ Open Data Portals from across the world....
 
 ## Evaluation
 
