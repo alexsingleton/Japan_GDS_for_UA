@@ -87,7 +87,7 @@ For a city anywhere in the world; utilize those skills acquired during this cour
 2.  An attribute that varies over both space and time
 3.  The spatial distribution of a social outcome
 
-The project will run in two stages:
+The project will run in three stages:
 
 -   *Stage 1* - You will work individually or within your groups to identify a city and associated data necessary to create a series of outputs that meet the three criteria above. You will then outline the type of outputs that you will create for your project - e.g. maps or graphs and the attributes used to create them. For each output you will need to create a flow chart of how you will implement this analysis.
 
@@ -110,6 +110,8 @@ You will be evaluated on the quality of your city profiles and in particular the
 ## Prizes
 
 *Extra special prizes will be awarded during the final session!*
+
+## Curriculum
 
 -   Geographic Data Science, Geodemographics and Urban Analytics (L)
 -   Reproducible Research (L)
