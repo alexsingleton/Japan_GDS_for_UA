@@ -6,7 +6,7 @@ This course provides an introduction to the study of cities through new forms of
 
 # Lecture Status
 
-To log status of lectures. I've created a [folder](/Lectures/) in the repository for us to dump slides:
+To log status of lectures. Dump slides in this [folder](/Lectures/).
 
 | Lecture | Topic  | Status | Delivery |
 | :-  | :-   | :-   | :-   |
