@@ -10,9 +10,9 @@ To log status of lectures. Dump slides in this [folder](/Lectures/).
 
 | Lecture | Topic  | Status | Delivery |
 | :-  | :-   | :-   | :-   |
-| 1.        | Urban Analytics: City Structure and Function | tbc | Alex |
+| 1.        | Urban Analytics: City Structure and Function | *Uploaded* | Alex |
 | 2.        | Introduction to GDS for UA | tbc | Alex | 
-| 3.        | New Forms of Data and the Analysis of Cities | tbc| Patrick |
+| 3.        | New Forms of Data and the Analysis of Cities | *In Progress* | Patrick |
 | 4.        | Geodemographic Analysis of Cities | tbc  | Alex |
 
 
