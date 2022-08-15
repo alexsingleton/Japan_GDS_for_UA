@@ -4,31 +4,6 @@
 
 This course provides an introduction to the study of cities through new forms of data; additionally giving participants a grounding in basic geographic data science that will be employed to create a profile exploring the structure and function of a selected city or urban region.
 
-# Lecture Status
-
-To log status of lectures. Dump slides in this [folder](/Lectures/).
-
-| Lecture | Topic  | Status | Delivery |
-| :-  | :-   | :-   | :-   |
-| 1.        | Urban Analytics: City Structure and Function | *Uploaded* | Alex |
-| 2.        | Introduction to GDS for UA | tbc | Alex | 
-| 3.        | New Forms of Data and the Analysis of Cities | *In Progress* | Patrick |
-| 4.        | Geodemographic Analysis of Cities | tbc  | Alex |
-
-
-# Practical Status
-
-To log status of practicals:
-
-| Practical | Topic  | Status | 
-| :-  | :-   | :-   | 
-| 1.        | Introduction to R | *Operational*  |
-| 2.        | Data Manipulation in R | *Operational*  |
-| 3.        | Descriptive statistics | *Operational* |
-| 4.        | Data Viz 1) Charts and graphs | *Operational*  |
-| 5.        | Data viz 2) Mapping areas and context | *Operational* |
-| 6.        | Data viz 3) Visualizing point patterns | *Operational*  |
-
 # Instructors:
 
 -   Professor Alex Singleton, University of Liverpool
@@ -38,13 +13,13 @@ To log status of practicals:
 
 ## Monday 5th September (Day 1)
 
--   13.00-14:30 (90 mins) - Public Lecture [Urban Analytics: City Structure and Function - Alex Singleton]()
+-   13.00-14:30 (90 mins) - Public Lecture [Urban Analytics: City Structure and Function - Alex Singleton](https://github.com/alexsingleton/Japan_GDS_for_UA/blob/main/Lectures/Urban_Analytics_City_Structure_and_Function.pptx)
 -   14:40-16:10 (90 mins) - **Student Software Preparation for the Course**
--   16:20-17:50 - (90 mins) [Lecture - Introduction to Geographic Data Science for Urban Analytics - Alex Singleton]()
+-   16:20-17:50 - (90 mins) [Lecture - Introduction to Geographic Data Science for Urban Analytics - Alex Singleton](https://github.com/alexsingleton/Japan_GDS_for_UA/blob/main/Lectures/GDS_UA.pptx)
 
 ## Tuesday 6th September (Day 2)
 
--   13.00-13:45 - [Lecture - New Forms of Data and the Analysis of Cities - Patrick Ballantyne]()
+-   13.00-13:45 - [Lecture - New Forms of Data and the Analysis of Cities - Patrick Ballantyne](https://github.com/alexsingleton/Japan_GDS_for_UA/blob/main/Lectures/Urban_Analytics_New_Forms_of_Data.pptx)
 -   13:45-14:30 - [Practical 1 - Introduction to R](/Practical%201%20-%20Introduction_to_R/)
 -   10 Mins Break
 -   14:40-16:10 - [Practical 2 - Data Manipulation in R](/Practical%202%20-%20Data%20Manipulation_in_R/)
@@ -57,7 +32,7 @@ To log status of practicals:
 -   10 Mins Break
 -   14:40-16:10 - [Practical 5 - Data Viz 2 - Mapping Areas and Context](/Practical%205%20-%20Mapping_Areas_and_Context/)
 -   10 Mins Break
--   16:20-17:50 - [Lecture - Geodemographic Analysis of Cities - Alex Singleton]()
+-   16:20-17:50 - [Lecture - Geodemographic Analysis of Cities - Alex Singleton](https://github.com/alexsingleton/Japan_GDS_for_UA/blob/main/Lectures/Geodemographic_Analysis_of_Cities.pptx)
 
 ## Thursday 8th September (Day 4)
 
