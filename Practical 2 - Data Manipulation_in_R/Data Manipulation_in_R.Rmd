@@ -1,5 +1,5 @@
 ---
-title: "Data_Manipulation in R"
+title: "Data Manipulation in R"
 output: html_document
 ---
 
@@ -129,26 +129,23 @@ One issue you might notice is that the earnings and earnings_m variables have be
 
 Issues such as these are quite common when reading in external data; and we will look at how this can be corrected later.
 
-Not all tabular data are distributed as textfiles, and another very common format is Microsoft Excel format - .xls or xlsx. Unlike .csv files there are no built in function to read these formats, however, other extension packages exist (e.g. )
+Not all tabular data are distributed as textfiles, and another very common format is Microsoft Excel format - .xls or xlsx. Unlike .csv files there are no built in function to read these formats, however, other extension packages exist:
 
 ```{r eval=FALSE}
 #Download and install package
 #install.packages("readxl")
-```
-
-```{r message=FALSE}
 #Load package
 library(readxl)
 ```
 
 ```{r}
 #Read workbook
-workbook <- read_excel("./data/tfl-daily-cycle-hires.xls", sheet = "Data")
+workbook <- readxl::read_excel("data/tfl-daily-cycle-hires.xls", sheet = "Data")
 ```
 
 ### Reading Spatial Data
 
-Spatial data are distributed in a variety of formats, but commonly as Shapefiles. These can be read into R using a number of packages, however, is illustrated here with "rgdal". The following code loads a Census Tract Shapefile which was downloaded from the San Francisco OpenData website (https://data.sfgov.org/Geographic-Locations-and-Boundaries/Census-2010-Tracts-for-San-Francisco/rarb-5ahf/data).
+Spatial data are distributed in a variety of formats, but commonly as Shapefiles. These can be read into R using a number of packages, however, is illustrated here with "rgdal". The following code loads a Census Tract Shapefile which was downloaded from the San Francisco OpenData website: [data.sfgov.org](https://data.sfgov.org/Geographic-Locations-and-Boundaries/Census-2010-Tracts-for-San-Francisco/rarb-5ahf/data).
 
 ```{r eval=FALSE}
 #Download and install package
@@ -203,7 +200,7 @@ plot(SP_311)
 
 ## Subsetting Data
 
-It is often necessary to subset data; either restricting a data frame to a set of columns or rows; or in the case of spatial data, creating an extract for a particular set of geographic features. Subsetting can occur in a number of different ways
+It is often necessary to subset data; either restricting a data frame to a set of columns or rows; or in the case of spatial data, creating an extract for a particular set of geographic features. Subsetting can occur in a number of different ways:
 
 ```{r}
 #Create a table of frequencies by the categories used within the 311 data
@@ -255,7 +252,7 @@ SF_clipped <- crop(SF, coast) # Clip the the SF spatial data frame object to the
 plot(SF_clipped)
 ```
 
-We will now perform a similar operation on the SP_311 object:
+We will now perform a similar operation on the SP_311 object. The spatialEco package provides the necessary tool to clip point data to polygons, the function is called point.in.poly():
 
 ```{r message=FALSE}
 #install.packages("spatialEco")
@@ -412,7 +409,7 @@ write.csv(SF_clipped_311@data,"311_Tract_Coded.csv")
 
 This has created a CSV file "311_Tract_Coded.csv" in your working directory; we will use this in the next practical class - "Basic SQL".
 
-It is also possible to write out a Shapefile
+It is also possible to write out a Shapefile:
 
 ```{r eval=FALSE}
 #This will write out a Shapefile for San Francisco - note, a warning is returned as the column names are a little longer than are allowed within a Shapefile and as such are automatically shortened.

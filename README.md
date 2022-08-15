@@ -4,10 +4,22 @@
 
 This course provides an introduction to the study of cities through new forms of data; additionally giving participants a grounding in basic geographic data science that will be employed to create a profile exploring the structure and function of a selected city or urban region.
 
-# Instructors:
+# Instructors
 
 -   Professor Alex Singleton, University of Liverpool
 -   Mr Patrick Ballantyne, University of Liverpool
+
+# Materials
+
+All the materials for this course are stored on the GitHub repo [alexsingleton/Japan_GDS_for_UA](https://github.com/alexsingleton/Japan_GDS_for_UA). 
+
+We recommend you download a local copy of the repo yourselves as this will give you access to the relevant data and R code for each practical. You can download the repo by selecting the *green code button* on the repository and click *download ZIP*, as in the image below. This will take a few minutes as there are some large data files in here.
+
+
+
+
+Once you have this downloaded you are all set to go! 
+
 
 # Schedule
 
@@ -20,23 +32,23 @@ This course provides an introduction to the study of cities through new forms of
 ## Tuesday 6th September (Day 2)
 
 -   13.00-13:45 - [Lecture - New Forms of Data and the Analysis of Cities - Patrick Ballantyne](https://github.com/alexsingleton/Japan_GDS_for_UA/blob/main/Lectures/Urban_Analytics_New_Forms_of_Data.pptx)
--   13:45-14:30 - [Practical 1 - Introduction to R](/Practical%201%20-%20Introduction_to_R/)
+-   13:45-14:30 - [Practical 1 - Introduction to R](https://github.com/alexsingleton/Japan_GDS_for_UA/tree/main/Practical%201%20-%20Introduction_to_R)
 -   10 Mins Break
--   14:40-16:10 - [Practical 2 - Data Manipulation in R](/Practical%202%20-%20Data%20Manipulation_in_R/)
+-   14:40-16:10 - [Practical 2 - Data Manipulation in R](https://github.com/alexsingleton/Japan_GDS_for_UA/tree/main/Practical%202%20-%20Data%20Manipulation_in_R)
 -   10 Mins Break
--   16:20-17:50 - [Practical 3 - Descriptive Statistics](/Practical%203%20-%20Descriptive_statistics/)
+-   16:20-17:50 - [Practical 3 - Descriptive Statistics](https://github.com/alexsingleton/Japan_GDS_for_UA/tree/main/Practical%203%20-%20Descriptive_statistics)
 
 ## Wednesday 7th September (Day 3)
 
--   13.00-14:30 - [Practical 4 - Data Viz 1 - Charts and Graphs](/Practical%204%20-%20Charts_and_Graphs/)
+-   13.00-14:30 - [Practical 4 - Data Viz 1 - Charts and Graphs](https://github.com/alexsingleton/Japan_GDS_for_UA/tree/main/Practical%204%20-%20Charts_and_Graphs)
 -   10 Mins Break
--   14:40-16:10 - [Practical 5 - Data Viz 2 - Mapping Areas and Context](/Practical%205%20-%20Mapping_Areas_and_Context/)
+-   14:40-16:10 - [Practical 5 - Data Viz 2 - Mapping Areas and Context](https://github.com/alexsingleton/Japan_GDS_for_UA/tree/main/Practical%205%20-%20Mapping_Areas_and_Context)
 -   10 Mins Break
 -   16:20-17:50 - [Lecture - Geodemographic Analysis of Cities - Alex Singleton](https://github.com/alexsingleton/Japan_GDS_for_UA/blob/main/Lectures/Geodemographic_Analysis_of_Cities.pptx)
 
 ## Thursday 8th September (Day 4)
 
--   13.00-14:30 - [Practical 6 - Data Viz 3 - Visualizing Point Patterns](/Practical%206%20-%20Visualizing_Point_Patterns/)
+-   13.00-14:30 - [Practical 6 - Data Viz 3 - Visualizing Point Patterns](https://github.com/alexsingleton/Japan_GDS_for_UA/tree/main/Practical%206%20-%20Visualizing_Point_Patterns)
 -   10 Mins Break
 -   14:40-16:10 - [Lecture / Independent - Introduction to the Group Project]() ; Student Project Planning - Stage 1
 -   10 Mins Break
@@ -70,8 +82,6 @@ The project will run in three stages:
 
 -   *Stage 3* - Three sessions have been allocated that will enable you to complete your independent analysis and create a presentation.
 
-If you would like to create a document of your code, then we would suggest using the class markdown template: [download](/GDS_UA_2017/class_template.Rmd). If you add this to a new directory for your assignment, it would also be sensible to store any data that you use in a sub folder called "data".
-
 ## Looking for inspiration....
 
 [Open Data Inception](https://opendatainception.io/) - 2000+ Open Data Portals from across the world....
@@ -84,7 +94,11 @@ You will be evaluated on the quality of your city profiles and in particular the
 
 *Extra special prizes will be awarded during the final session!*
 
-## Curriculum
+
+
+
+
+## Curriculum - Alex do we need this anymore?
 
 -   Geographic Data Science, Geodemographics and Urban Analytics (L)
 -   Reproducible Research (L)

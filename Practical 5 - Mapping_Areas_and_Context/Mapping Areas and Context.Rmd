@@ -1,5 +1,5 @@
 ---
-title: "Data Viz 2: Mapping Areas and Context"
+title: "Data Viz 2) Mapping Areas and Context"
 output: html_document
 ---
 
@@ -11,6 +11,7 @@ By the end of this practical lab you will be able to:
 * Creating layered maps using the tmap package
 
 ## Making maps in R
+
 Like most analysis task within R there are a few different ways in we can make maps. In this practical lab we will introduce various ways in which we can map the attribute of areas and contextualize these to build a richer cartography. We will illustrate this through base R, and a series of packages including ggplot2 and tmap.
 
 ## Choropleth mapping in base R
@@ -53,7 +54,7 @@ However, the imd_rank is currently stored as a character object, see below:
 ```{r}
 str(LSOA@data$imd_rank)
 ```
-Let's change this to numeric
+Let's change this to numeric:
 
 ```{r}
 # Convert IMD Rank to numeric 
@@ -72,7 +73,7 @@ If we print the object created by the classIntervals() function, a summary is pr
 breaks
 ```
 
-We need to choose some colors that we will assign to each of the break points in the data. We will now use another package called "RColorBrewer" which provides a series of color pallets that are suitable for mapping. You can have a look at the color pallets online: http://colorbrewer2.org. Each of these pallets are named; and you can see all the available pallets as follows.
+We need to choose some colors that we will assign to each of the break points in the data. We will now use another package called "RColorBrewer" which provides a series of color pallets that are suitable for mapping. You can have a look at the color pallets online: [http://colorbrewer2.org](http://colorbrewer2.org). Each of these pallets are named; and you can see all the available pallets as follows.
 
 
 ```{r}
@@ -102,7 +103,7 @@ We can then create a basic map using this list of colors and the `plot()` functi
 plot(LSOA,col=colours_to_map)
 ```
 
-We might also want to create a map without the borders, and this can be controlled with an additional parameter which is set to "NA"
+We might also want to create a map without the borders, and this can be controlled with an additional parameter which is set to "NA":
 
 ```{r}
 plot(LSOA,col=colours_to_map,border = NA)
@@ -134,7 +135,7 @@ legend("bottomleft" , legend = maptools::leglabs(breaks$brks, between = " to "),
 ```
 
 
-We will now add some points to the map by creating a new Spatial Points Data Frame as we demonstrated in the previous practical (see 2. Data Manipulation in R):
+We will now add some points to the map by creating a new Spatial Points Data Frame:
 
 ```{r}
 #Read in the location of schools
@@ -280,7 +281,8 @@ ggplot()+plot1+plot2+plot3 +coord_equal() + scale_fill_gradient( low="#473B31", 
 ```
 
 ## Making basic maps using tmap
-A recent addition to R for creating maps is the tmap package. This is quite flexible and can be used to create various types of maps and geographic representations with relative simplicity. For someone starting with R, this is probably the simplest entry point. First we will install and load the package:
+
+A recent addition to R for creating maps is the tmap package. This is quite flexible and can be used to create various types of maps and geographic representations with relative simplicity. For someone starting with R, this is probably the simplest entry point. Let's load the package (you should have it installed already from a previous practical)
 
 ```{r, eval= FALSE}
 #Load package
@@ -288,7 +290,7 @@ A recent addition to R for creating maps is the tmap package. This is quite flex
 library(tmap)
 ```
 
-We will first load a shapefile for the Leeds, UK. 
+We will first load a shapefile for the Leeds, UK:
 
 ```{r}
 #Read Shapefile
@@ -297,7 +299,7 @@ Leeds <- readOGR("./data","E08000035",verbose = FALSE)
 head(Leeds@data)
 ```
 
-We will store the map in the "M" object - first we setup the map and projection - note that we use the CRS 27700 which is the code for the British National Grid:
+We will store the map in the "m" object - first we setup the map and projection - note that we use the CRS 27700 which is the code for the British National Grid:
 
 ```{r}
 m <- tmap::tm_shape(Leeds, projection=27700)

@@ -138,10 +138,15 @@ So far we have only considered the mean price, however, what if we wanted to cre
 
 The basic structure of a function is:
 
-function_name <- function(argument1,argument2,...){
-    Statments that do something...
-    return(something to return from the function)
-}
+```{r}
+#function_name <- function(argument1,argument2,...){
+    #Statments that do something...
+    #return(something to return from the function)
+#}
+```
+
+
+
 
 In this example we create a new function called "data_description" which calculates a mean and counts the number of records - these are stored within a new object called "stats" which is returned when the function is run.
 
@@ -287,10 +292,17 @@ historic_Buffers@data <- cbind(historic_Buffers@data,average_buffer_price)
 head(historic@data)
 ```
 
-The buffers are also shown on a map:
+The buffers are also shown on a map. We use tmap to make a map of these, tmap will be explained in greater detail later in this course.
 
-```{r echo=FALSE}
+```{r}
+#Install tmap
+#install.packages("tmap")
+#Load package
 library(tmap)
+```
+
+
+```{r }
 m <- tm_shape(historic_Buffers, projection=28992) +
     tm_polygons(col="Av_price_200m", style="jenks",n=5, showNA=FALSE,palette="Blues") +
    tm_layout(legend.position = c("right", "top"), frame = FALSE)
@@ -299,5 +311,6 @@ tmap_leaflet(m)
 ```
 
 # Further resources / training
+
 * [Stats Methods](http://www.statmethods.net/stats/descriptives.html) - some useful descriptions of various descriptive statistic methods / packages
 * [Spatial cheat sheet](http://www.maths.lancs.ac.uk/~rowlings/Teaching/UseR2012/cheatsheet.html) - lots of useful help and functions for working with spatial data

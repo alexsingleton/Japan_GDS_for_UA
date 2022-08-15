@@ -19,7 +19,7 @@ R is a statistical programming language which can be downloaded for free and ins
 
 To make R function, commands are entered into the R terminal, which returns results. The R download contains a lot of pre-built functions referred to as "base R".
 
-R has a slightly different interface when running on either Windows, Mac OS or Linux; however, it is very common for R to be used within an Integrated Development Environment (IDE). The most common of these is R Studio which can be downloaded here: [www.rstudio.com/products/rstudio/#Desktop](https://www.rstudio.com/products/rstudio/#Desktop). R Studio provides a user friendly interface to R, and helps new users by integrating a series of the components of R into a single window interface.
+R has a slightly different interface when running on either Windows, Mac OS or Linux; however, it is very common for R to be used within an Integrated Development Environment (IDE). The most common of these is R Studio which can be downloaded here: [www.rstudio.com](https://www.rstudio.com/products/rstudio/). R Studio provides a user friendly interface to R, and helps new users by integrating a series of the components of R into a single window interface.
 
 ![](rstudio.png)
 
@@ -29,7 +29,7 @@ The R console (terminal) is visible in the bottom left of the interface and comm
 1+5
 ```
 
-The basic R functions can be expanded by installing additional "packages", for example:
+The basic R functions can be expanded by installing additional "packages". Each time you want to work with a new package (e.g. ggplot2), you will need to install it to your device using the install.packages() command. Following this, you can just load the package using library() each time you use it afterwards, without the need to install it each time.
 
 ```{r, eval=FALSE}
 #Install / download the package ggplot2
@@ -46,11 +46,13 @@ Before starting any R analysis it is useful to see where your working directory 
 getwd()
 ```
 
-You can also set this by entering a directory location using the setwd() function:
+This should be set to somewhere where all the files for this course are organised. If not you can change the file path using the
+setwd() function:
 
 ```{r eval=FALSE}
 setwd("CHANGE TO FILE PATH")
 ```
+A guide on changing your working directory can be found here: [universeofdatascience.com/](https://universeofdatascience.com/how-to-change-working-directory-in-r/).
 
 ## Creating Objects and their classes
 

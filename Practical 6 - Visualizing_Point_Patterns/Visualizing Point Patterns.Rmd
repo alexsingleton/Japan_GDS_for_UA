@@ -1,5 +1,5 @@
 ---
-title: "7. Data Viz 3 - Visualizing Point Patterns"
+title: "Data Viz 3) Visualizing Point Patterns"
 output: html_document
 ---
 
@@ -13,6 +13,7 @@ By the end of this practical lab you will be able to:
 * Map point data using bins and density plots
 
 ## Visualizing Points
+
 We will first read some crime data into R for the [City of Chicago, USA](https://data.cityofchicago.org/view/5cd6-ry5g). This contains those crimes which occurred during the year 2016 as of 24th December; with the attributes including the category of the crime and a variety of other information such as location and date / time. The following code imports the data, parses the date and time stamp using the base R function strptime() and also ymd_hms() from the package lubridate. We then remove unwanted columns and restrict the results to those coded as "BURGLARY".
 
 ```{r message=FALSE, warning=FALSE}
@@ -140,7 +141,7 @@ ggplot(crimes, aes(x=Longitude, y=Latitude)) +
 
 
 
- similar representation can be produced with hexagons instead of rectangles. To aggregate to hexagons, first install the 'hexbin' R package:
+A similar representation can be produced with hexagons instead of rectangles. To aggregate to hexagons, first install the 'hexbin' R package:
 
 ```{r}
 #Load package

@@ -1,5 +1,5 @@
 ---
-title: "Charts and Graphs"
+title: "Data Viz 1) Charts and Graphs"
 output: html_document
 ---
 
@@ -25,7 +25,7 @@ This should look as follows...
 head(census)
 ```
 
-As we showed in an earlier practical (4. Descriptive Statistics), we can provide a summary of the attributes using the summary() function:
+As we showed in an earlier practical, we can provide a summary of the attributes using the summary() function:
 
 ```{r}
 summary(census)
@@ -44,7 +44,7 @@ We might also be interested in the relationship between two variables. In the fo
 plot(census$PCT_Good_Health,census$PCT_Social_Rented_Households,cex=.7,main="Good Health and Social Housing", xlab="% Good Health",ylab="% Social Housing",col="#00bfff",pch=19)
 ```
 
-As was shown in a previous practical (see 4. Descriptive statistics), a mean can be calculated as follows:
+As was shown in a previous practical, a mean can be calculated as follows:
 
 ```{r}
 mean(census$PCT_Good_Health)
@@ -124,6 +124,7 @@ legend("topright", c("White","Black","Asian","Hispanic / Latino"), cex=0.8, col=
 The ggplot2 library provides a range of functions that make graphing and visualization of your data both visually appealing and simple to implement. There are two ways in which graphs can be created in ggplot2, the first is ggplot() which we will discuss later, and the second is qlot(), which has a simplified syntax.
 
 ```{r}
+#Load package
 library(ggplot2)
 ```
 
@@ -167,6 +168,7 @@ qplot(PCT_Social_Rented_Households, PCT_Higher_Managerial, data = census,shape=t
 ```
 
 ### Adding a smoothed line
+
 If we want to add a trend line to the plot this is also possible by adding an addition parameter to the "geom".
 
 ```{r}
@@ -192,6 +194,10 @@ We can then have a quick look at the data and check on the data class.
 
 ```{r}
 head(household_ex)
+
+```
+
+```{r}
 str(household_ex)
 ```
 
@@ -218,7 +224,9 @@ p + geom_line()
 Swapping out the scientific notation requires another package called "scales". Once loaded, we can then add an additional parameter onto the graph.
 
 ```{r}
+#Load package
 library(scales)
+#Plot
 p + geom_line() + scale_y_continuous(labels = comma)
 ```
 
