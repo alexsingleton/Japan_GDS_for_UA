@@ -15,8 +15,7 @@ All the materials for this course are stored on the GitHub repo [alexsingleton/J
 
 We recommend you download a local copy of the repo yourselves as this will give you access to the relevant data and R code for each practical. You can download the repo by selecting the *green code button* on the repository and click *download ZIP*, as in the image below. This will take a few minutes as there are some large data files in here.
 
-
-
+<img width="329" alt="download repo" src="https://user-images.githubusercontent.com/43341895/184627254-899b36b7-4e0c-41f0-aef3-963bc4cbe902.png">
 
 Once you have this downloaded you are all set to go! 
 
