@@ -25,7 +25,7 @@ Once you have this downloaded you are all set to go!
 ## Monday 5th September (Day 1)
 
 -   13.00-14:30 (90 mins) - Public Lecture [Urban Analytics: City Structure and Function - Alex Singleton](https://github.com/alexsingleton/Japan_GDS_for_UA/blob/main/Lectures/Urban_Analytics_City_Structure_and_Function.pptx)
--   14:40-16:10 (90 mins) - Student Software Clinic [Introduction to R and R Studio - Patrick Ballantyne]()
+-   14:40-16:10 (90 mins) - [Student Software Clinic - Patrick Ballantyne](https://github.com/alexsingleton/Japan_GDS_for_UA/blob/main/Lectures/Software_Preparation.pptx)
 -   16:20-17:50 - (90 mins) [Lecture - Introduction to Geographic Data Science for Urban Analytics - Alex Singleton](https://github.com/alexsingleton/Japan_GDS_for_UA/blob/main/Lectures/GDS_UA.pptx)
 
 ## Tuesday 6th September (Day 2)
