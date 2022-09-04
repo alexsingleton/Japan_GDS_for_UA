@@ -25,7 +25,7 @@ Once you have this downloaded you are all set to go!
 ## Monday 5th September (Day 1)
 
 -   13.00-14:30 (90 mins) - Public Lecture [Urban Analytics: City Structure and Function - Alex Singleton](https://github.com/alexsingleton/Japan_GDS_for_UA/blob/main/Lectures/Urban_Analytics_City_Structure_and_Function.pptx)
--   14:40-16:10 (90 mins) - **Student Software Preparation for the Course**
+-   14:40-16:10 (90 mins) - Student Software Clinic [Introduction to R and R Studio - Patrick Ballantyne]()
 -   16:20-17:50 - (90 mins) [Lecture - Introduction to Geographic Data Science for Urban Analytics - Alex Singleton](https://github.com/alexsingleton/Japan_GDS_for_UA/blob/main/Lectures/GDS_UA.pptx)
 
 ## Tuesday 6th September (Day 2)
@@ -61,9 +61,9 @@ Once you have this downloaded you are all set to go!
 -   10 Mins Break
 -   16:20-17:50 - Presentation - Groups Talks and Prizes
 
-# Group Project Assignment
+# Project Assignment
 
-The group project will be introduced at 14:40 on Day 4. The projects is designed so that you can implement those skills developed during the practical sessions within an applied context. The projects are to be conducted in groups, and the assessment will be a 10-12 minute presentation in the final session on Friday 9th September.
+The project will be introduced at 14:40 on Day 4. The projects is designed so that you can implement those skills developed during the practical sessions within an applied context. The assessment will be a 10-12 minute presentation in the final session on Friday 9th September.
 
 ## Assignment
 
