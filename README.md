@@ -42,14 +42,15 @@ Once you have this downloaded you are all set to go!
 -   13.00-14:30 - [Practical 4 - Data Viz 1 - Charts and Graphs](https://github.com/alexsingleton/Japan_GDS_for_UA/tree/main/Practical%204%20-%20Charts_and_Graphs)
 -   10 Mins Break
 -   14:40-16:10 - [Practical 5 - Data Viz 2 - Mapping Areas and Context](https://github.com/alexsingleton/Japan_GDS_for_UA/tree/main/Practical%205%20-%20Mapping_Areas_and_Context)
+- 14:40 - 16:10 - [Practical 6 - Data Viz 3 - Visualizing Point Patterns](https://github.com/alexsingleton/Japan_GDS_for_UA/tree/main/Practical%206%20-%20Visualizing_Point_Pattern)
 -   10 Mins Break
 -   16:20-17:50 - [Lecture - Geodemographic Analysis of Cities - Alex Singleton](https://github.com/alexsingleton/Japan_GDS_for_UA/blob/main/Lectures/Geodemographic_Analysis_of_Cities.pptx)
 
 ## Thursday 8th September (Day 4)
 
--   13.00-14:30 - [Practical 6 - Data Viz 3 - Visualizing Point Patterns](https://github.com/alexsingleton/Japan_GDS_for_UA/tree/main/Practical%206%20-%20Visualizing_Point_Patterns)
+-   13.00-14:30 - [Lecture / Independent - Introduction to the Group Project]
 -   10 Mins Break
--   14:40-16:10 - [Lecture / Independent - Introduction to the Group Project]() ; Student Project Planning - Stage 1
+-   14:40-16:10 -  Student Project Planning - Stage 1
 -   10 Mins Break
 -   16:20-17:50 - Student Project Planning Continued- Stage 1 / Student Project Brief Review - Stage 2
 
