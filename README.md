@@ -48,11 +48,12 @@ Once you have this downloaded you are all set to go!
 
 ## Thursday 8th September (Day 4)
 
--   13.00-14:30 - [Lecture / Independent - Introduction to the Group Project]
+-   13.00-13:20 - [Lecture / Independent - Introduction to the Group Project]
+-   13.20-14:30 - Student Project Planning - Stage 1
 -   10 Mins Break
--   14:40-16:10 -  Student Project Planning - Stage 1
+-   14:40-16:10 -  Student Project Planning Continued- Stage 1 / Student Project Brief Review - Stage 2
 -   10 Mins Break
--   16:20-17:50 - Student Project Planning Continued- Stage 1 / Student Project Brief Review - Stage 2
+-   16:20-17:50 - Independent - Student Led Analysis - Stage 3
 
 ## Friday 9th September (Day 5)
 
@@ -64,21 +65,21 @@ Once you have this downloaded you are all set to go!
 
 # Project Assignment
 
-The project will be introduced at 14:40 on Day 4. The projects is designed so that you can implement those skills developed during the practical sessions within an applied context. The assessment will be a 10-12 minute presentation in the final session on Friday 9th September.
+The project will be introduced at 13:00 on Day 4. The projects is designed so that you can implement those skills developed during the practical sessions within an applied context. The assessment will be a 10-12 minute presentation in the final session on Friday 9th September.
 
 ## Assignment
 
 For a city anywhere in the world; utilize those skills acquired during this course to create a data driven profile that describes:
 
 1.  Some aspects of population structure
-2.  An attribute that varies over both space and time
-3.  The spatial distribution of a social outcome
+2.  An attribute that varies over both space and / or time
+3.  The spatial distribution of a social outcome (e.g. health, economic etc)
 
 The project will run in three stages:
 
--   *Stage 1* - You will work individually or within your groups to identify a city and associated data necessary to create a series of outputs that meet the three criteria above. You will then outline the type of outputs that you will create for your project - e.g. maps or graphs and the attributes used to create them. For each output you will need to create a flow chart of how you will implement this analysis.
+-   *Stage 1* - You will work individually to identify a city and associated data necessary to create a series of outputs that meet the three criteria above. You will then outline the type of outputs that you will create for your project - e.g. maps or graphs and the attributes used to create them. For each output you will need to create a flow chart of how you will implement this analysis.
 
--   *Stage 2* - A session has been allocated where you can discuss your proposed analysis with Alex Singleton and Patrick Ballantyne who will give you feedback / suggestions.
+-   *Stage 2* - Part of a session has been allocated where you can discuss your proposed analysis with Alex Singleton and Patrick Ballantyne who will give you feedback / suggestions.
 
 -   *Stage 3* - Three sessions have been allocated that will enable you to complete your independent analysis and create a presentation.
 
