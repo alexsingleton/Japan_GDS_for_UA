@@ -77,7 +77,7 @@ For a city anywhere in the world; utilize those skills acquired during this cour
 
 The project will run in three stages:
 
--   *Stage 1* - You will work individually to identify a city and associated data necessary to create a series of outputs that meet the three criteria above. You will then outline the type of outputs that you will create for your project - e.g. maps or graphs and the attributes used to create them. For each output you will need to create a flow chart of how you will implement this analysis.
+-   *Stage 1* - You will work in teams of 2 to identify a city and associated data necessary to create a series of outputs that meet the three criteria above. You will then outline the type of outputs that you will create for your project - e.g. maps or graphs and the attributes used to create them. For each output you will need to create a flow chart of how you will implement this analysis.
 
 -   *Stage 2* - Part of a session has been allocated where you can discuss your proposed analysis with Alex Singleton and Patrick Ballantyne who will give you feedback / suggestions.
 
